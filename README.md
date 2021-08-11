@@ -4,7 +4,7 @@ This is my first atempt to make a game in javascript using HTML & CSS.
 
 ## Description
 
-So i wanted to learn how to code, and i thought that Javascript was a solid way of using a game for beginners.
+So i wanted to learn how to code, and i thought that Javascript was a solid way of creating a game for beginners.
 I tried and tried, to learn how to code and it was rough, but finaly i came up with something that worked.
 So this is my atempt to make Blackjack.
 
