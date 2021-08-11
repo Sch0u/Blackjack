@@ -8,11 +8,6 @@ So i wanted to learn how to code, and i thought that Javascript was a solid way 
 I tried and tried, to learn how to code and it was rough, but finaly i came up with something that worked.
 So this is my atempt to make Blackjack.
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
 ### Installing
 
 Download the folder and done :)
