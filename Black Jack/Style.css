@@ -1,0 +1,86 @@
+body{
+  background-image: url(background1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.button {
+  background-color: white; 
+  color: black; 
+  border: 2px solid black;
+  border-radius: 10px;
+  font-size: 12px;
+  position: relative;
+  top: 90px;
+  left: 47vw;
+}
+
+.button:hover {
+  background-color: red;
+  color: white;
+}
+
+.dealer {
+  text-align: center;
+  margin-left: 50%;
+  margin-top: -165px;
+  color: beige;
+}
+
+.player {
+  text-align: center;
+  margin-left: -50%;
+  margin-top: 80px;
+  color: beige;
+}
+
+.winStatus {
+  color: black;
+  padding: 200px;
+  background-color: white; 
+  border: 2px solid black;
+  border-radius: 10px;
+  font-size: 12px;
+}
+
+.winning-message {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: black;
+  opacity: 85%;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 4rem;
+}
+
+.winning-message button {
+  background-color: white; 
+  color: black; 
+  border: 2px solid black;
+  border-radius: 20px;
+  font-size: 20px;
+  position: relative;
+  top: 8vh;
+  left: 220px;
+}
+
+.winning-message button:hover {
+  background-color: red;
+  color: white;
+}
+
+.winning-message.show {
+  display: flex;
+}
+
+#name{
+  position:absolute;
+  font-size: 30px;
+  bottom:8.5px;
+  right:21px;
+}
